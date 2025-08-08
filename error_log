@@ -1,0 +1,182 @@
+[24-Jul-2025 00:01:33 Europe/London] PHP Warning:  include(radio_player.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/index.php on line 74
+[24-Jul-2025 00:01:33 Europe/London] PHP Warning:  include(radio_player.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/index.php on line 74
+[24-Jul-2025 00:01:33 Europe/London] PHP Warning:  include(): Failed opening 'radio_player.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/index.php on line 74
+[24-Jul-2025 00:03:31 Europe/London] PHP Warning:  include(radio_player.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/index.php on line 74
+[24-Jul-2025 00:03:31 Europe/London] PHP Warning:  include(radio_player.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/index.php on line 74
+[24-Jul-2025 00:03:31 Europe/London] PHP Warning:  include(): Failed opening 'radio_player.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/index.php on line 74
+[24-Jul-2025 00:19:49 Europe/London] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/register.php on line 3
+[24-Jul-2025 00:19:49 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vortexfa/public_html/register.php on line 3
+[24-Jul-2025 00:19:56 Europe/London] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/login.php on line 3
+[24-Jul-2025 00:19:56 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vortexfa/public_html/login.php on line 3
+[24-Jul-2025 00:20:59 Europe/London] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 3
+[24-Jul-2025 00:20:59 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vortexfa/public_html/admin.php on line 3
+[24-Jul-2025 00:21:51 Europe/London] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/register.php on line 9
+[24-Jul-2025 00:21:51 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/register.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vortexfa/public_html/register.php on line 9
+[24-Jul-2025 00:23:38 Europe/London] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vortexfa/public_html/login.php on line 48
+[24-Jul-2025 00:23:48 Europe/London] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vortexfa/public_html/login.php on line 48
+[24-Jul-2025 00:42:05 Europe/London] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vortexfa/public_html/login.php on line 48
+[24-Jul-2025 00:55:17 Europe/London] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vortexfa/public_html/login.php on line 50
+[24-Jul-2025 00:57:18 Europe/London] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vortexfa/public_html/login.php on line 44
+[24-Jul-2025 01:11:59 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:11:59 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:11:59 Europe/London] PHP Warning:  include(): Failed opening 'manage_users.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:12:02 Europe/London] PHP Warning:  include(manage_news.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 49
+[24-Jul-2025 01:12:02 Europe/London] PHP Warning:  include(manage_news.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 49
+[24-Jul-2025 01:12:02 Europe/London] PHP Warning:  include(): Failed opening 'manage_news.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 49
+[24-Jul-2025 01:12:03 Europe/London] PHP Warning:  include(manage_events.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 52
+[24-Jul-2025 01:12:03 Europe/London] PHP Warning:  include(manage_events.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 52
+[24-Jul-2025 01:12:03 Europe/London] PHP Warning:  include(): Failed opening 'manage_events.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 52
+[24-Jul-2025 01:12:04 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:12:04 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:12:04 Europe/London] PHP Warning:  include(): Failed opening 'manage_users.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:15:42 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:15:42 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:15:42 Europe/London] PHP Warning:  include(): Failed opening 'manage_users.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:15:45 Europe/London] PHP Warning:  include(manage_news.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 49
+[24-Jul-2025 01:15:45 Europe/London] PHP Warning:  include(manage_news.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 49
+[24-Jul-2025 01:15:45 Europe/London] PHP Warning:  include(): Failed opening 'manage_news.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 49
+[24-Jul-2025 01:15:46 Europe/London] PHP Warning:  include(manage_events.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 52
+[24-Jul-2025 01:15:46 Europe/London] PHP Warning:  include(manage_events.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 52
+[24-Jul-2025 01:15:46 Europe/London] PHP Warning:  include(): Failed opening 'manage_events.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 52
+[24-Jul-2025 01:15:47 Europe/London] PHP Warning:  include(manage_timetable.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:15:47 Europe/London] PHP Warning:  include(manage_timetable.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:15:47 Europe/London] PHP Warning:  include(): Failed opening 'manage_timetable.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:15:48 Europe/London] PHP Warning:  include(manage_rares.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 58
+[24-Jul-2025 01:15:48 Europe/London] PHP Warning:  include(manage_rares.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 58
+[24-Jul-2025 01:15:48 Europe/London] PHP Warning:  include(): Failed opening 'manage_rares.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 58
+[24-Jul-2025 01:15:55 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:15:55 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:15:55 Europe/London] PHP Warning:  include(): Failed opening 'manage_users.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 62
+[24-Jul-2025 01:18:49 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 68
+[24-Jul-2025 01:18:49 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 68
+[24-Jul-2025 01:18:49 Europe/London] PHP Warning:  include(): Failed opening 'manage_users.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 68
+[24-Jul-2025 01:19:10 Europe/London] PHP Warning:  include(manage_news.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:19:10 Europe/London] PHP Warning:  include(manage_news.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:19:10 Europe/London] PHP Warning:  include(): Failed opening 'manage_news.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:19:12 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 68
+[24-Jul-2025 01:19:12 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 68
+[24-Jul-2025 01:19:12 Europe/London] PHP Warning:  include(): Failed opening 'manage_users.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 68
+[24-Jul-2025 01:19:18 Europe/London] PHP Warning:  include(manage_news.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:19:18 Europe/London] PHP Warning:  include(manage_news.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:19:18 Europe/London] PHP Warning:  include(): Failed opening 'manage_news.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:19:25 Europe/London] PHP Warning:  include(manage_events.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 58
+[24-Jul-2025 01:19:25 Europe/London] PHP Warning:  include(manage_events.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 58
+[24-Jul-2025 01:19:25 Europe/London] PHP Warning:  include(): Failed opening 'manage_events.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 58
+[24-Jul-2025 01:19:32 Europe/London] PHP Warning:  include(manage_timetable.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 61
+[24-Jul-2025 01:19:32 Europe/London] PHP Warning:  include(manage_timetable.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 61
+[24-Jul-2025 01:19:32 Europe/London] PHP Warning:  include(): Failed opening 'manage_timetable.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 61
+[24-Jul-2025 01:19:42 Europe/London] PHP Warning:  include(manage_rares.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 64
+[24-Jul-2025 01:19:42 Europe/London] PHP Warning:  include(manage_rares.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 64
+[24-Jul-2025 01:19:42 Europe/London] PHP Warning:  include(): Failed opening 'manage_rares.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 64
+[24-Jul-2025 01:19:53 Europe/London] PHP Warning:  include(manage_timetable.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 61
+[24-Jul-2025 01:19:53 Europe/London] PHP Warning:  include(manage_timetable.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 61
+[24-Jul-2025 01:19:53 Europe/London] PHP Warning:  include(): Failed opening 'manage_timetable.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 61
+[24-Jul-2025 01:20:00 Europe/London] PHP Warning:  include(manage_events.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 58
+[24-Jul-2025 01:20:00 Europe/London] PHP Warning:  include(manage_events.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 58
+[24-Jul-2025 01:20:00 Europe/London] PHP Warning:  include(): Failed opening 'manage_events.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 58
+[24-Jul-2025 01:20:07 Europe/London] PHP Warning:  include(manage_news.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:20:07 Europe/London] PHP Warning:  include(manage_news.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:20:07 Europe/London] PHP Warning:  include(): Failed opening 'manage_news.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 55
+[24-Jul-2025 01:20:15 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 68
+[24-Jul-2025 01:20:15 Europe/London] PHP Warning:  include(manage_users.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 68
+[24-Jul-2025 01:20:15 Europe/London] PHP Warning:  include(): Failed opening 'manage_users.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php on line 68
+[24-Jul-2025 01:21:41 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'vortexfa_portal.rares' doesn't exist in /home/vortexfa/public_html/admin/manage_rares.php:42
+Stack trace:
+#0 /home/vortexfa/public_html/admin/manage_rares.php(42): mysqli->query()
+#1 /home/vortexfa/public_html/admin.php(65): include('/home/vortexfa/...')
+#2 {main}
+  thrown in /home/vortexfa/public_html/admin/manage_rares.php on line 42
+[24-Jul-2025 01:24:53 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'vortexfa_portal.news' doesn't exist in /home/vortexfa/public_html/admin/manage_news.php:65
+Stack trace:
+#0 /home/vortexfa/public_html/admin/manage_news.php(65): mysqli->query()
+#1 /home/vortexfa/public_html/admin.php(49): include('/home/vortexfa/...')
+#2 {main}
+  thrown in /home/vortexfa/public_html/admin/manage_news.php on line 65
+[24-Jul-2025 01:25:03 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'vortexfa_portal.news' doesn't exist in /home/vortexfa/public_html/admin/manage_news.php:65
+Stack trace:
+#0 /home/vortexfa/public_html/admin/manage_news.php(65): mysqli->query()
+#1 /home/vortexfa/public_html/admin.php(49): include('/home/vortexfa/...')
+#2 {main}
+  thrown in /home/vortexfa/public_html/admin/manage_news.php on line 65
+[24-Jul-2025 01:43:54 Europe/London] PHP Warning:  require_once(../config.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 3
+[24-Jul-2025 01:43:54 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '../config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vortexfa/public_html/admin.php on line 3
+[24-Jul-2025 01:44:05 Europe/London] PHP Warning:  require_once(../config.php): Failed to open stream: No such file or directory in /home/vortexfa/public_html/admin.php on line 3
+[24-Jul-2025 01:44:05 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '../config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vortexfa/public_html/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vortexfa/public_html/admin.php on line 3
+[24-Jul-2025 01:45:45 Europe/London] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/vortexfa/public_html/footer.php:5
+Stack trace:
+#0 /home/vortexfa/public_html/footer.php(5): mysqli->query()
+#1 /home/vortexfa/public_html/admin.php(66): include('/home/vortexfa/...')
+#2 {main}
+  thrown in /home/vortexfa/public_html/footer.php on line 5
+[24-Jul-2025 01:45:47 Europe/London] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/vortexfa/public_html/footer.php:5
+Stack trace:
+#0 /home/vortexfa/public_html/footer.php(5): mysqli->query()
+#1 /home/vortexfa/public_html/admin.php(66): include('/home/vortexfa/...')
+#2 {main}
+  thrown in /home/vortexfa/public_html/footer.php on line 5
+[24-Jul-2025 01:45:48 Europe/London] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/vortexfa/public_html/footer.php:5
+Stack trace:
+#0 /home/vortexfa/public_html/footer.php(5): mysqli->query()
+#1 /home/vortexfa/public_html/admin.php(66): include('/home/vortexfa/...')
+#2 {main}
+  thrown in /home/vortexfa/public_html/footer.php on line 5
+[24-Jul-2025 01:45:50 Europe/London] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/vortexfa/public_html/footer.php:5
+Stack trace:
+#0 /home/vortexfa/public_html/footer.php(5): mysqli->query()
+#1 /home/vortexfa/public_html/admin.php(66): include('/home/vortexfa/...')
+#2 {main}
+  thrown in /home/vortexfa/public_html/footer.php on line 5
+[24-Jul-2025 01:53:30 Europe/London] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/vortexfa/public_html/footer.php:5
+Stack trace:
+#0 /home/vortexfa/public_html/footer.php(5): mysqli->query()
+#1 /home/vortexfa/public_html/register.php(113): include('/home/vortexfa/...')
+#2 {main}
+  thrown in /home/vortexfa/public_html/footer.php on line 5
+[24-Jul-2025 03:02:22 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`vortexfa_portal`.`job_applications`, CONSTRAINT `job_applications_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/vortexfa/public_html/jobs.php:23
+Stack trace:
+#0 /home/vortexfa/public_html/jobs.php(23): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vortexfa/public_html/jobs.php on line 23
+[24-Jul-2025 03:07:27 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`vortexfa_portal`.`job_applications`, CONSTRAINT `job_applications_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/vortexfa/public_html/jobs.php:29
+Stack trace:
+#0 /home/vortexfa/public_html/jobs.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vortexfa/public_html/jobs.php on line 29
+[24-Jul-2025 03:08:28 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`vortexfa_portal`.`job_applications`, CONSTRAINT `job_applications_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/vortexfa/public_html/jobs.php:25
+Stack trace:
+#0 /home/vortexfa/public_html/jobs.php(25): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vortexfa/public_html/jobs.php on line 25
+[24-Jul-2025 03:08:53 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`vortexfa_portal`.`job_applications`, CONSTRAINT `job_applications_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/vortexfa/public_html/jobs.php:25
+Stack trace:
+#0 /home/vortexfa/public_html/jobs.php(25): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vortexfa/public_html/jobs.php on line 25
+[24-Jul-2025 03:33:40 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`vortexfa_portal`.`job_applications`, CONSTRAINT `job_applications_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/vortexfa/public_html/jobs.php:28
+Stack trace:
+#0 /home/vortexfa/public_html/jobs.php(28): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vortexfa/public_html/jobs.php on line 28
+[24-Jul-2025 22:31:32 Europe/London] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vortexfa/public_html/login.php on line 44
+[24-Jul-2025 22:38:29 Europe/London] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vortexfa/public_html/login.php on line 44
+[25-Jul-2025 20:04:21 Europe/London] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vortexfa/public_html/login.php on line 44
+[25-Jul-2025 20:11:47 Europe/London] PHP Parse error:  Unclosed '{' on line 134 in /home/vortexfa/public_html/footer.php on line 135
+[06-Aug-2025 03:41:36 Europe/London] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vortexfa/public_html/login.php on line 44

@@ -1,0 +1,1 @@
+Please refer to he license as provided. This is a basic fan site template, nothing special, just to help new Habbo and retro owners make fan sites for their enjoyment. There will be limited support on this project. If you need assistance, find me on devbest 

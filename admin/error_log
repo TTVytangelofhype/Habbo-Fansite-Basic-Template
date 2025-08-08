@@ -1,0 +1,5 @@
+[23-Jul-2025 22:58:44 Europe/London] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM staff WHERE username = 'admin'' at line 1 in /home/vortexfa/public_html/admin/login.php:34
+Stack trace:
+#0 /home/vortexfa/public_html/admin/login.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/vortexfa/public_html/admin/login.php on line 34
